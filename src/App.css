@@ -1,0 +1,28 @@
+
+body{
+    box-sizing: border-box;
+}
+
+.MuiPaper-root {
+    color:white !important;
+    background-color: rgb(68 68 167) !important;
+}
+
+.makeStyles-content-10{
+    padding: 50px !important;
+}
+a:-webkit-any-link{
+    color: white;
+    text-decoration: none;
+}
+.MuiSvgIcon-root {
+    color: whitesmoke;
+}
+.MuiDrawer-paperAnchorDockedLeft {
+    border-right: 1px solid rgba(0, 0, 0, 0.12);
+    margin-left: 20px;
+    border-radius: 10px 0 0 0;
+}
+.navbar{
+    background-color:rgb(68 68 167);
+}
