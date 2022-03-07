@@ -1,1 +1,1 @@
-# TicketLite
+# TicketLite - MERNSTACK APPLICATION
